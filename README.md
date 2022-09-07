@@ -2,7 +2,7 @@
 
 Here is what I am working on:
 
-- 🔭 I’m currently working on ... Personal Projects
+- 🔭 I’m currently working in ... Infosys
 - 🌱 I’m currently learning ... React Js
 - 👯 I’m looking to collaborate on ... React Js projects (beginners)
 - 💬 Ask me about ... any thing
